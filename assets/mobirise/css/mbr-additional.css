@@ -5637,40 +5637,34 @@ a {
     padding: 1rem;
   }
 }
-.cid-v5JAQolS9l {
-  padding-top: 8rem;
-  padding-bottom: 1rem;
-  background-image: url("../../../assets/images/gambar-whatsapp-2025-03-18-pukul-18.24.09-69e3aacb.jpg");
+.cid-v5JB6pFsqT {
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/whatsapp-image-2025-11-16-at-17.53.16-158298b7.jpg");
 }
-.cid-v5JAQolS9l .mbr-fallback-image.disabled {
+.cid-v5JB6pFsqT .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-v5JAQolS9l .mbr-fallback-image {
+.cid-v5JB6pFsqT .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
   width: 100%;
   height: 100%;
   position: absolute;
-  bottom: 0;
+  top: 0;
 }
-.cid-v5JAQolS9l .topbg {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 30%;
-  background: #7787a5;
+.cid-v5JB6pFsqT .mbr-text,
+.cid-v5JB6pFsqT .mbr-section-btn {
+  color: #232323;
 }
-.cid-v5JAQolS9l .mbr-section-title {
+.cid-v5JB6pFsqT .card-title,
+.cid-v5JB6pFsqT .card-box {
   color: #ffffff;
 }
-.cid-v5JAQolS9l .mbr-text,
-.cid-v5JAQolS9l .mbr-section-btn {
+.cid-v5JB6pFsqT .mbr-text,
+.cid-v5JB6pFsqT .link-wrap {
   color: #ffffff;
-}
-.cid-v5JAQolS9l .content-head {
-  max-width: 800px;
 }
 .cid-v3mi5ADOPs {
   padding-top: 6rem;
@@ -6933,6 +6927,35 @@ a {
   .cid-v501nAW66M .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-v5JBe6j1Mx {
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/whatsapp-image-2025-11-16-at-17.53.16-158298b7.jpg");
+}
+.cid-v5JBe6j1Mx .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v5JBe6j1Mx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v5JBe6j1Mx .mbr-text,
+.cid-v5JBe6j1Mx .mbr-section-btn {
+  color: #232323;
+}
+.cid-v5JBe6j1Mx .card-title,
+.cid-v5JBe6j1Mx .card-box {
+  color: #ffffff;
+}
+.cid-v5JBe6j1Mx .mbr-text,
+.cid-v5JBe6j1Mx .link-wrap {
+  color: #ffffff;
 }
 .cid-uzbuMVx7T6 {
   padding-top: 10rem;
